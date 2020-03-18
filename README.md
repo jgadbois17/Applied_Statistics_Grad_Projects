@@ -39,6 +39,6 @@ For anyone interested, this is the link to [my LinkedIn](https://www.linkedin.co
 
 **Statistical Methodology** 
 
-* *Design:* One-Quarter Fraction of $2^4$ Factorial 
+* *Design:* One-Half Fraction of 2^4 Factorial 
 * Analysis of Variance 
 * Tukey's Multiple Comparison Procedures 
