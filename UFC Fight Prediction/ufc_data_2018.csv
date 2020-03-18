@@ -1,0 +1,379 @@
+fighter1,fighter2,winner,weight_class,method,fight_year,stance_fighter1,stance_fighter2,height_dif,reach_dif,SLpM_dif,Str_Acc_dif,SApM_dif,Str_Def_dif,TD_Avg_dif,TD_Acc_dif,TD_Def_dif,Sub_Avg_dif,win%_dif,age_dif
+Santiago Ponzinibbio,Neil Magny,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-3,-7,0.41,-7,1.8,8,-2.08,-2,0,-0.3,17.91,-1
+Ricardo Lamas,Darren Elkins,fighter1,Featherweight,KO/TKO,2018,Orthodox,Orthodox,-2,0,-0.49,8,-0.22,6,-1.02,-3,-10,-0.3,-5.05,-2
+Johnny Walker,Khalil Rountree Jr.,fighter1,Light Heavyweight,KO/TKO,2018,Orthodox,Southpaw,4,6,3.07,36,0.07,-13,0.89,100,50,2.3,16.67,2
+Marlon Vera,Guido Cannetti,fighter1,Bantamweight,SUB,2018,Switch,Southpaw,2,2,0.43,-8,1.98,1,-2.02,-13,-7,1,5.13,13
+Bartosz Fabinski,Michel Prazeres,fighter2,Welterweight,SUB,2018,Orthodox,Orthodox,6,8,-0.37,23,-0.97,-7,2.95,32,33,-0.7,-10.5,5
+Ulka Sasaki,Alexandre Pantoja,fighter2,Flyweight,SUB,2018,Southpaw,Orthodox,5,4,-2.15,-5,-0.88,-9,2.28,-7,-19,-0.6,-14.54,-1
+Nad Narimani,Anderson Dos Santos,fighter1,Featherweight,DEC,2018,Orthodox,Orthodox,1,3,1.23,23,-3,11,3.5,43,20,-1,11.64,2
+Jeremy Stephens,Dooho Choi,fighter1,Featherweight,KO/TKO,2018,Orthodox,Orthodox,-2,1,-2.54,-13,-3.5,5,0.61,16,14,0.4,-17.24,-5
+Jessica-Rose Clark,Paige VanZant,fighter1,Women's Flyweight,DEC,2018,Orthodox,Orthodox,1,-1,1.13,-1,1.41,18,-0.08,32,17,0,-3.64,-7
+Emil Meek,Kamaru Usman,fighter2,Welterweight,DEC,2018,Switch,Switch,-1,-2,-1.4,-10,1.18,-31,-3.52,3,-52,1,-32.86,1
+Darren Elkins,Michael Johnson,fighter1,Featherweight,SUB,2018,Orthodox,Southpaw,0,-2,-0.95,-1,-1.13,-5,2.09,-10,-20,1.2,17.52,-2
+Alex White,James Krause,fighter2,Lightweight,DEC,2018,Southpaw,Orthodox,-2,-2,-0.71,-6,-1.27,3,-0.29,27,21,-0.5,-5.17,2
+Polo Reyes,Matt Frevola,fighter1,Lightweight,KO/TKO,2018,,Orthodox,2,0,2.82,3,0.39,8,-2.45,-40,-43,-1.8,-13.46,-6
+Talita Bernardo,Irene Aldana,fighter2,Women's Bantamweight,DEC,2018,Orthodox,Orthodox,-5,0,-3.5,3,-3.43,-3,1.5,-25,-45,0.7,-2.56,-1
+Guido Cannetti,Kyung Ho Kang,fighter2,Bantamweight,SUB,2018,Southpaw,Orthodox,-3,-4,0.41,10,-0.02,-7,0.51,-16,0,-1,0.67,-8
+JJ Aldrich,Danielle Taylor,fighter1,Women's Strawweight,DEC,2018,Southpaw,Orthodox,5,7,0.97,10,0.56,-8,0.05,-4,-12,-0.2,8.55,3
+Mads Burnell,Mike Santiago,fighter1,Featherweight,DEC,2018,Orthodox,Orthodox,-2,0,-2.16,-8,-0.87,15,0.79,-3,-31,-0.7,11.36,5
+Francis Ngannou,Stipe Miocic,fighter2,Heavyweight,DEC,2018,Orthodox,Orthodox,0,3,-2.97,-17,-1.01,-15,-2.38,-38,-7,0.5,-7.14,4
+Daniel Cormier,Volkan Oezdemir,fighter1,Light Heavyweight,KO/TKO,2018,Orthodox,Orthodox,-3,-3,-1.85,1,-2.38,5,1.64,-5,8,0.5,8.33,-10
+Calvin Kattar,Shane Burgos,fighter1,Featherweight,KO/TKO,2018,Orthodox,Orthodox,0,-3,-1.51,-5,1.19,-11,0.12,-67,-19,-0.3,-5.3,-3
+Gian Villante,Francimar Barroso,fighter1,Light Heavyweight,DEC,2018,Orthodox,Orthodox,2,1,1.48,-10,2.24,-3,-1.69,-1,0,0,-7.41,5
+Thomas Almeida,Rob Font,fighter2,Bantamweight,KO/TKO,2018,Southpaw,Orthodox,-1,-1,1.28,6,0.96,1,-1.13,-29,50,-0.9,9.05,4
+Brandon Davis,Kyle Bochniak,fighter2,Featherweight,DEC,2018,Orthodox,Orthodox,3,2,2.41,2,0.05,4,-0.78,13,-5,0,-8.44,3
+Abdul Razak Alhassan,Sabah Homasi,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-2,1,-0.39,-2,-2.71,12,-2.23,-17,-13,0,33.01,-3
+Dustin Ortiz,Alexandre Pantoja,fighter1,Flyweight,DEC,2018,Orthodox,Orthodox,0,-2,-1.4,-3,-1.14,-3,2.26,-15,-6,-1.7,-13.88,-2
+Dan Ige,Julio Arce,fighter2,Featherweight,DEC,2018,Orthodox,Southpaw,0,1,-0.51,8,0.73,-3,2.78,14,-43,0.6,-1.52,2
+Matt Bessette,Enrique Barzola,fighter2,Featherweight,DEC,2018,Orthodox,,3,0,0.84,-2,2.19,-11,-5.53,-24,-14,0,-11.25,-5
+Gleison Tibau,Islam Makhachev,fighter2,Lightweight,KO/TKO,2018,Southpaw,Orthodox,0,1,-0.29,-29,1.69,-1,-0.25,-33,-8,-0.5,-20.04,-8
+Derek Brunson,Jacare Souza,fighter2,Middleweight,KO/TKO,2018,Southpaw,Orthodox,0,5,0.42,-2,0.09,-13,-0.27,-13,47,-1.1,-6.79,5
+Dennis Bermudez,Andre Fili,fighter2,Featherweight,DEC,2018,Orthodox,Orthodox,-5,-8,0.72,9,-0.52,6,1,-8,13,0.8,-9.62,-4
+Jordan Rinaldi,Gregor Gillespie,fighter2,Lightweight,KO/TKO,2018,Orthodox,Orthodox,1,1,-1.8,-8,-0.02,-2,-4.97,-2,20,0.4,-30,1
+Drew Dober,Frank Camacho,fighter1,Welterweight,DEC,2018,Southpaw,Orthodox,-2,-3,-1.78,-7,-3.65,2,-0.39,-28,-20,0.1,-6.03,-1
+Erik Koch,Bobby Green,fighter2,Lightweight,DEC,2018,Southpaw,Orthodox,0,0,-2.68,-8,-0.89,-18,-0.39,25,8,0.9,-1.3,2
+Godofredo Pepey,Mirsad Bektic,fighter2,Featherweight,KO/TKO,2018,Orthodox,Orthodox,-1,3,-0.6,-8,1.81,-15,-3.22,-46,-65,1.1,-22.86,-4
+Katlyn Chookagian,Mara Romero Borella,fighter1,Women's Flyweight,DEC,2018,Orthodox,Orthodox,3,-1,-0.55,-7,0.17,-9,-1.68,-50,-44,-0.6,25,2
+Juliana Lima,Randa Markos,fighter2,Women's Strawweight,DEC,2018,Orthodox,Orthodox,1,2,-0.98,3,-1.15,-6,0.11,5,17,-0.2,14.29,-3
+Ji Yeon Kim,Justine Kish,fighter1,Women's Flyweight,DEC,2018,Orthodox,Orthodox,2,8,0.15,-18,0.73,1,-1,-30,45,-0.2,-2.27,1
+Joaquim Silva,Vinc Pichel,fighter2,Lightweight,DEC,2018,,Orthodox,-2,-3,-0.05,-9,0.53,10,-4.25,-62,45,0.1,-1.28,7
+Niko Price,George Sullivan,fighter1,Welterweight,SUB,2018,Orthodox,Orthodox,0,3,-1.03,-10,1.62,-1,0.07,8,37,1.1,12,8
+Austin Arnett,Cory Sandhagen,fighter2,Featherweight,KO/TKO,2018,Orthodox,Switch,1,2,-5.5,-14,3.16,-2,-0.45,-82,40,0.3,-13.81,-1
+Eryk Anders,Lyoto Machida,fighter2,Middleweight,DEC,2018,Southpaw,Southpaw,0,1,0.28,-2,1.86,-16,1.27,-23,-17,-0.2,9.62,9
+Priscila Cachoeira,Valentina Shevchenko,fighter2,Women's Flyweight,SUB,2018,Orthodox,Southpaw,2,-2,-3.1,-36,7.71,-42,-1.82,-54,-73,-0.5,5.56,0
+Michel Prazeres,Desmond Green,fighter1,Lightweight,DEC,2018,Orthodox,Southpaw,-4,-6,-0.62,5,0.11,-11,3.22,3,-26,0.7,20.44,-8
+Tim Johnson,Marcelo Golm,fighter1,Heavyweight,DEC,2018,Southpaw,Orthodox,0,2,-0.83,-15,-0.84,-3,0.62,-26,-18,-0.5,0,-7
+Marlon Vera,Douglas Silva de Andrade,fighter2,Bantamweight,DEC,2018,Switch,Orthodox,1,2,-0.69,8,-0.15,-9,-0.11,-20,0,1.3,-22.62,7
+Anthony Smith,Thiago Santos,fighter2,Middleweight,KO/TKO,2018,Orthodox,Orthodox,4,0,-1.4,-3,2.1,-16,-0.29,-9,-19,0.9,-5.55,4
+Tim Means,Sergio Moraes,fighter2,Welterweight,DEC,2018,Orthodox,Orthodox,2,3,2.1,-1,-0.04,1,-0.48,10,-12,-0.4,-4.45,2
+Damir Hadzovic,Alan Patrick,fighter2,Lightweight,DEC,2018,Orthodox,Southpaw,-2,-4,0.77,2,0.51,20,-3.92,-40,-35,-0.1,-13.24,3
+Maia Stevenson,Polyana Viana,fighter2,Women's Strawweight,SUB,2018,Orthodox,Orthodox,-1,-5,-1.51,15,0.69,-18,2.32,72,0,-2.4,-28.79,-10
+Iuri Alcantara,Joe Soto,fighter1,Bantamweight,KO/TKO,2018,Southpaw,Orthodox,3,6,-0.64,4,-2.58,-18,0.59,41,-10,-1.1,4.09,-7
+Joseph Morales,Deiveson Figueiredo,fighter2,Flyweight,KO/TKO,2018,Switch,Orthodox,1,1,-0.67,-17,0.1,6,-1.93,-3,-27,-1.3,-18.18,7
+Luke Rockhold,Yoel Romero,fighter2,Middleweight,KO/TKO,2018,Southpaw,Southpaw,3,4,1.01,-2,-0.45,-5,-1.15,8,-10,1.2,-1.25,7
+Mark Hunt,Curtis Blaydes,fighter2,Heavyweight,DEC,2018,Orthodox,Orthodox,-6,-8,-1.31,-7,0.58,-5,-6.29,-2,39,0.2,-36.9,-17
+Cyril Asker,Tai Tuivasa,fighter2,Heavyweight,KO/TKO,2018,Orthodox,Southpaw,-2,-1,-1.86,-16,2.9,-23,4.41,62,0,0.9,-30.77,-8
+Jake Matthews,Li Jingliang,fighter1,Welterweight,DEC,2018,Orthodox,Orthodox,-1,2,-1.79,5,-1.15,-4,1.36,9,10,0.9,7.35,6
+Saparbeg Safarov,Tyson Pedro,fighter2,Light Heavyweight,SUB,2018,Orthodox,Orthodox,-2,-1,1.18,-31,3.64,-3,1.54,0,43,-1.5,2.22,-5
+Damien Brown,Dong Hyun Kim 155,fighter2,Lightweight,DEC,2018,Orthodox,Orthodox,-1,-2,-0.11,-7,0.33,-3,-0.99,-33,20,0.7,-0.64,-4
+Israel Adesanya,Rob Wilkinson,fighter1,Middleweight,KO/TKO,2018,Switch,Orthodox,1,0,1.77,5,-3.58,32,-4.47,-25,85,0.3,15.38,-3
+Alexander Volkanovski,Jeremy Kennedy,fighter1,Featherweight,KO/TKO,2018,Orthodox,Orthodox,-5,0,3.87,17,-0.03,16,-1.86,-11,16,0.7,3.07,-4
+Jussier Formiga,Ben Nguyen,fighter1,Flyweight,SUB,2018,Orthodox,Switch,0,2,-2.48,-3,-1.13,11,1.53,4,19,-0.6,10.65,-3
+Mizuto Hirota,Ross Pearson,fighter2,Lightweight,DEC,2018,Orthodox,Orthodox,-1,-2,-0.01,0,-0.34,-9,0.8,14,-15,0,5.44,-3
+Teruto Ishihara,Jose Quinonez,fighter2,Bantamweight,DEC,2018,Southpaw,,-1,0,-0.05,1,1.18,-15,-2.36,-34,-25,-1,-22.11,1
+Daichi Abe,Luke Jumeau,fighter2,Welterweight,DEC,2018,Orthodox,Orthodox,0,-1,0.42,-16,0.98,2,0,-50,-91,0,-1.47,3
+Yancy Medeiros,Donald Cerrone,fighter2,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-3,2,0.3,-12,1.2,-6,-1.13,-1,12,-0.8,-2.48,4
+Derrick Lewis,Marcin Tybura,fighter1,Heavyweight,KO/TKO,2018,Orthodox,Orthodox,0,1,-0.84,-2,-0.69,-8,-1.12,-38,-26,-0.1,-5.95,0
+James Vick,Francisco Trinaldo,fighter1,Lightweight,DEC,2018,Orthodox,Southpaw,6,6,0.89,-7,0.58,2,-0.85,-12,-7,0.3,7.36,9
+Thiago Alves,Curtis Millender,fighter2,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-5,-6,0.06,-1,0.09,3,-0.07,-32,6,0.3,-16.71,-4
+Steven Peterson,Brandon Davis,fighter2,Featherweight,DEC,2018,Orthodox,Orthodox,0,-2,0.12,1,1.15,-7,1.45,-16,43,0.3,9.63,0
+Thibault Gouti,Sage Northcutt,fighter2,Lightweight,DEC,2018,Orthodox,Orthodox,-2,1,0.1,-18,3.68,-8,-0.58,46,42,-0.3,-14.03,-9
+Diego Ferreira,Jared Gordon,fighter1,Lightweight,KO/TKO,2018,Orthodox,Orthodox,0,6,-2.82,-12,0.16,-15,-3.06,-31,-38,1,-0.83,-3
+Brian Camozzi,Geoff Neal,fighter2,Welterweight,SUB,2018,Orthodox,Southpaw,3,3,-4.59,-29,3.33,-9,0,0,-80,-0.7,-25,1
+Roberto Sanchez,Joby Sanchez,fighter1,Flyweight,SUB,2018,Orthodox,Orthodox,0,-2,-2.26,4,-1.04,-17,2.66,-9,-1,0.3,6.67,-5
+Lucie Pudilova,Sarah Moras,fighter1,Women's Bantamweight,DEC,2018,Orthodox,,1,0,3.68,2,1.85,9,-0.95,-22,40,-0.4,22.73,6
+Alex Morono,Joshua Burkman,fighter1,Welterweight,SUB,2018,Orthodox,Orthodox,1,0,0.97,-3,-0.73,13,-2.53,-36,-32,0.3,8.3,10
+Tim Williams,Oskar Piechota,fighter2,Middleweight,KO/TKO,2018,Orthodox,Southpaw,2,0,-0.51,-19,0.72,-10,0.69,-10,75,-2.8,-9.62,-4
+Jeremy Stephens,Josh Emmett,fighter1,Featherweight,KO/TKO,2018,Orthodox,Orthodox,2,1,-0.79,3,-0.88,-4,-0.74,-16,14,0.2,-21.55,1
+Tecia Torres,Jessica Andrade,fighter2,Women's Strawweight,DEC,2018,Orthodox,Orthodox,0,-2,-2.14,-3,-1.93,14,-2.37,-41,-33,-0.4,0.92,-2
+Ovince Saint Preux,Ilir Latifi,fighter2,Light Heavyweight,SUB,2018,Southpaw,Orthodox,5,7,0.31,5,0.13,-8,-1.15,3,-34,-0.1,-5.71,0
+Mike Perry,Max Griffin,fighter2,Welterweight,DEC,2018,Orthodox,Orthodox,-1,-5,0.57,2,1.07,3,0.57,30,11,-0.3,1.32,6
+Brian Kelleher,Renan Barao,fighter1,Bantamweight,DEC,2018,Switch,Orthodox,0,-4,1.36,9,2.22,-4,-0.21,-17,-7,0.1,-13.96,-1
+Marion Reneau,Sara McMann,fighter1,Women's Bantamweight,SUB,2018,Orthodox,Orthodox,0,2,1.04,-3,0.39,20,-4.41,36,-14,0.7,-4.46,-3
+Angela Hill,Maryna Moroz,fighter1,Women's Strawweight,DEC,2018,Orthodox,Orthodox,-4,-3,2.64,27,1.6,8,0.22,40,27,-0.6,-11.19,-6
+Alan Jouban,Ben Saunders,fighter1,Welterweight,KO/TKO,2018,Southpaw,Orthodox,-2,-4,2.22,3,-0.1,9,0.3,10,-6,-1,9.87,-2
+Marcin Prachnio,Sam Alvey,fighter2,Light Heavyweight,KO/TKO,2018,Orthodox,Southpaw,1,-1,-0.81,-6,-0.33,-3,-0.1,-25,-84,-0.1,3.14,2
+Russell Doane,Rani Yahya,fighter2,Bantamweight,SUB,2018,Orthodox,Orthodox,1,3,0.27,2,0.22,3,-1.02,11,30,-1.5,-7,2
+Eric Shelton,Alex Perez,fighter2,Flyweight,DEC,2018,Orthodox,Orthodox,0,3,-2.5,-2,-1.45,4,-0.28,8,-57,-1.9,-13.41,-1
+Manny Bermudez,Albert Morales,fighter1,Bantamweight,SUB,2018,Orthodox,Orthodox,1,-1,-2.05,10,-1.26,5,0.85,-15,-70,8.6,41.67,3
+Yana Kunitskaya,Cris Cyborg,fighter2,Women's Featherweight,KO/TKO,2018,Orthodox,Orthodox,-2,0,-2.84,11,2.34,-29,4.04,-12,-91,0.5,-22.16,4
+Brian Ortega,Frankie Edgar,fighter1,Featherweight,KO/TKO,2018,Switch,Orthodox,2,1,0.06,-8,3.05,-14,-2.25,-19,-7,1.4,17.47,10
+Andre Soukhamthath,Sean O'Malley,fighter2,Bantamweight,DEC,2018,Orthodox,Switch,-2,-2,-3.53,-11,-0.17,-12,0.28,13,14,-1.1,-31.58,-6
+Stefan Struve,Andrei Arlovski,fighter2,Heavyweight,DEC,2018,Orthodox,Orthodox,8,7,0.01,3,1.3,-10,-0.07,13,-25,1.5,14.42,9
+Ketlen Vieira,Cat Zingano,fighter1,Women's Bantamweight,DEC,2018,Orthodox,Southpaw,2,0,0.06,-25,2.08,10,-0.6,-8,50,-0.1,23.08,9
+Ashley Yoder,Mackenzie Dern,fighter2,Women's Strawweight,DEC,2018,Southpaw,Orthodox,3,6,-2.2,-13,0.33,-14,0.39,34,64,-0.9,-40,-6
+Alexander Hernandez,Beneil Dariush,fighter1,Lightweight,KO/TKO,2018,Orthodox,Southpaw,-1,0,-0.93,2,-1.17,-15,2.35,10,-14,-0.8,15.91,3
+Pedro Munhoz,John Dodson,fighter2,Bantamweight,DEC,2018,Orthodox,Orthodox,3,-2,1.41,1,1.93,-5,0.44,-9,-11,1.3,12.26,2
+CB Dollaway,Hector Lombard,fighter1,Middleweight,DQ,2018,Orthodox,Southpaw,5,5,-0.37,1,-0.77,1,1.86,6,-15,0.7,-8.05,5
+Zak Ottow,Mike Pyle,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-1,-2,0.31,-6,-0.1,-4,-1.03,-5,-9,-1,8.44,11
+Bryan Caraway,Cody Stamann,fighter2,Bantamweight,DEC,2018,Orthodox,Orthodox,2,4,-2.54,-16,-0.02,-8,-1.57,-45,-8,0.8,-19.47,-5
+Adam Milstead,Jordan Johnson,fighter2,Light Heavyweight,DEC,2018,Orthodox,Orthodox,1,-3,0.45,-1,1.46,-5,-3.25,-42,-36,-1.2,-27.27,-1
+Alexander Volkov,Fabricio Werdum,fighter1,Heavyweight,KO/TKO,2018,Orthodox,Orthodox,3,3,1.7,9,-0.06,0,-0.79,45,44,-0.8,9.21,11
+Jan Blachowicz,Jimi Manuwa,fighter1,Light Heavyweight,DEC,2018,Orthodox,Orthodox,1,-1,0.3,-3,-0.73,4,1.01,33,-16,0,-4.29,3
+Terrion Ware,Tom Duquesnoy,fighter2,Bantamweight,DEC,2018,Orthodox,Orthodox,1,3,0.19,-13,0.77,-12,0.08,-3,-2,0,-18.83,-7
+Leon Edwards,Peter Sobotta,fighter1,Welterweight,KO/TKO,2018,Southpaw,Southpaw,0,-1,0.21,9,-0.9,-4,-0.5,-6,-7,-0.1,13.38,4
+Charles Byrd,John Phillips,fighter1,Middleweight,SUB,2018,Orthodox,Southpaw,-1,-2,3.92,59,-1.18,41,2.58,57,57,1.9,-5.75,-2
+Oliver Enkamp,Danny Roberts,fighter2,Welterweight,KO/TKO,2018,Switch,Southpaw,-1,3,-1.33,-5,0.11,-18,0.87,16,-57,-0.5,-6.43,4
+Hakeem Dawodu,Danny Henry,fighter2,Featherweight,SUB,2018,Orthodox,Orthodox,-4,0,-1.09,-8,-3,20,-0.96,-33,0,-2.9,-5.71,3
+Paul Craig,Magomed Ankalaev,fighter1,Light Heavyweight,SUB,2018,Orthodox,Orthodox,0,1,-1.41,-6,2.48,-26,1.45,23,-5,1.9,-7.58,-5
+Kajan Johnson,Stevie Ray,fighter1,Lightweight,DEC,2018,Orthodox,Southpaw,1,5,-1.04,-3,-0.96,9,0.81,-18,7,-0.5,-12.81,-6
+Dmitry Sosnovskiy,Mark Godbeer,fighter1,Heavyweight,SUB,2018,Orthodox,Orthodox,-1,0,-1.02,17,-0.77,-19,3.16,66,72,3.2,23.53,6
+Khabib Nurmagomedov,Al Iaquinta,fighter1,Lightweight,DEC,2018,Orthodox,Orthodox,1,0,0.01,9,-2.34,4,4.11,16,7,0.2,27.78,1
+Joanna Jedrzejczyk,Rose Namajunas,fighter2,Women's Strawweight,DEC,2018,Orthodox,Orthodox,1,0,2.72,6,-1.05,6,-2.19,7,37,-0.9,13.24,-5
+Renato Moicano,Calvin Kattar,fighter1,Featherweight,DEC,2018,Orthodox,Orthodox,0,0,0.68,5,-3.21,13,0.6,21,1,0.4,0.3,1
+Kyle Bochniak,Zabit Magomedsharipov,fighter2,Featherweight,DEC,2018,Orthodox,Orthodox,-6,-3,-1.93,-21,1.96,-6,-6.24,-43,-15,-1.3,-21.39,-4
+Chris Gruetzemacher,Joe Lauzon,fighter1,Lightweight,KO/TKO,2018,Orthodox,Orthodox,-2,-3,4.38,20,-0.3,2,-2.34,-45,8,-2.1,19.56,2
+Karolina Kowalkiewicz,Felice Herrig,fighter1,Women's Strawweight,DEC,2018,Orthodox,Orthodox,-1,-1,2.07,2,0.27,6,-1.06,-16,11,-0.9,17.61,1
+Olivier Aubin-Mercier,Evan Dunham,fighter1,Lightweight,KO/TKO,2018,Southpaw,Southpaw,-1,0,-2.77,14,-0.86,-4,1.14,2,-12,-0.3,13.33,8
+Ashlee Evans-Smith,Bec Rawlings,fighter1,Women's Flyweight,DEC,2018,Orthodox,Orthodox,2,3,0.49,-5,-1.96,4,0.43,-13,-2,-0.4,20,-2
+Mike Rodriguez,Devin Clark,fighter2,Light Heavyweight,DEC,2018,Southpaw,Orthodox,4,7,-0.63,-3,0.32,-20,-3.36,-48,-39,-0.3,-6.82,-2
+Dustin Poirier,Justin Gaethje,fighter1,Lightweight,KO/TKO,2018,Southpaw,Orthodox,-2,2,-2.94,-5,-6.85,3,1.75,41,-11,1.3,-10.48,1
+Carlos Condit,Alex Oliveira,fighter2,Welterweight,SUB,2018,Orthodox,Orthodox,3,-1,0.61,-14,0.28,11,-2.86,17,-20,0.2,-1.65,-4
+Israel Adesanya,Marvin Vettori,fighter1,Middleweight,DEC,2018,Switch,Southpaw,4,6,1.1,16,-0.88,7,-1.63,-43,12,-0.6,29.41,-4
+Cortney Casey,Michelle Waterson,fighter2,Women's Strawweight,DEC,2018,Orthodox,Orthodox,4,5,1.31,-24,1.69,1,-1.83,-38,-38,-0.9,-15.58,1
+Tim Boetsch,Antonio Carlos Junior,fighter2,Middleweight,SUB,2018,Orthodox,Orthodox,-2,-5,0.83,5,1.01,2,-2.19,-11,0,-0.3,-14.94,-9
+Ricky Rainey,Muslim Salikhov,fighter2,Welterweight,KO/TKO,2018,Switch,Orthodox,2,7,0.48,2,0.68,-16,0.99,18,9,0,-15.28,-1
+Wilson Reis,John Moraga,fighter2,Flyweight,DEC,2018,Southpaw,Orthodox,-2,-1,-0.75,-14,0.44,-1,4.32,20,3,-0.5,-2.11,1
+Brad Tavares,Krzysztof Jotko,fighter1,Middleweight,KO/TKO,2018,Orthodox,Southpaw,0,-3,0.16,-4,0.84,-4,-0.08,-10,-10,-0.1,-8.7,-2
+Gilbert Burns,Dan Moret,fighter1,Lightweight,KO/TKO,2018,Orthodox,Southpaw,-2,-2,-0.59,5,-1.61,5,2.23,36,38,0.9,4.78,0
+Lauren Mueller,Shana Dobson,fighter1,Women's Flyweight,DEC,2018,Orthodox,,-1,-2,0.31,11,-0.66,3,0.34,25,88,0,40,2
+Dhiego Lima,Yushin Okami,fighter2,Welterweight,DEC,2018,Orthodox,Southpaw,0,-1,0.4,8,0.78,-12,0.12,20,-34,1,-9.42,8
+Arjan Bhullar,Adam Wieczorek,fighter2,Heavyweight,SUB,2018,Orthodox,Orthodox,-4,-6,0.48,14,0.51,13,1.21,33,42,-0.4,5.56,-6
+Matthew Lopez,Alejandro Perez,fighter2,Bantamweight,KO/TKO,2018,Southpaw,Orthodox,1,2,-1,17,0.47,-9,2.67,41,0,1.3,1.06,-2
+Luke Sanders,Patrick Williams,fighter1,Bantamweight,DEC,2018,Southpaw,Orthodox,-2,-6,1.8,0,-0.52,3,-2.27,-8,-30,-0.1,22.86,4
+Kevin Lee,Edson Barboza,fighter1,Lightweight,KO/TKO,2018,Orthodox,Orthodox,-2,2,0.42,4,-1.04,-8,2.84,-8,-5,1,9,6
+Cub Swanson,Frankie Edgar,fighter2,Featherweight,DEC,2018,Orthodox,Orthodox,2,2,0.57,9,1.06,-8,-1.3,19,-5,0.1,-4.43,2
+Chase Sherman,Justin Willis,fighter2,Heavyweight,DEC,2018,Orthodox,Southpaw,3,0,1.2,-18,2.07,-7,-1.84,-66,77,0,-22.79,2
+David Branch,Thiago Santos,fighter1,Middleweight,KO/TKO,2018,Orthodox,Orthodox,1,2,-3.22,-10,-0.15,-6,1.71,-5,-23,-0.1,5.48,-3
+Aljamain Sterling,Brett Johns,fighter1,Bantamweight,DEC,2018,Orthodox,Orthodox,0,0,0.48,4,-3.31,13,-1.39,-12,-27,0.5,-4.02,-3
+Jim Miller,Dan Hooker,fighter2,Lightweight,KO/TKO,2018,Southpaw,Switch,-4,-4,-1.23,-3,-1.49,3,1.16,-1,-29,1.4,-2.95,-7
+Alex Garcia,Ryan LaFlare,fighter2,Welterweight,DEC,2018,Orthodox,Southpaw,-4,-2,-1.08,-9,1.17,-4,1.59,8,8,-0.1,-10.92,4
+Merab Dvalishvili,Ricky Simon,fighter2,Bantamweight,KO/TKO,2018,Orthodox,Orthodox,0,-1,1.4,-7,-0.87,-9,-0.34,-9,16,-0.3,-26.67,-1
+Siyar Bahadurzada,Luan Chagas,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-1,-2,-0.67,2,-0.97,-10,0.92,71,-17,0.2,-1.53,-9
+Patrick Cummins,Corey Anderson,fighter2,Light Heavyweight,DEC,2018,Orthodox,Orthodox,-1,-3,-0.34,3,1.16,-4,-0.97,-12,-47,0.1,-12.5,-9
+Anthony Rocco Martin,Keita Nakamura,fighter1,Welterweight,DEC,2018,Orthodox,Southpaw,1,0,0.6,5,-0.5,-2,-1,-30,-7,0.9,4.44,5
+Amanda Nunes,Raquel Pennington,fighter1,Women's Bantamweight,KO/TKO,2018,Orthodox,Orthodox,1,2,1.13,4,-0.43,-6,0.66,12,15,-0.3,27.06,0
+Kelvin Gastelum,Jacare Souza,fighter1,Middleweight,DEC,2018,Southpaw,Orthodox,-4,-1,1.25,-3,0.41,-2,-2.19,9,9,-1.5,1.21,12
+Amanda Cooper,Mackenzie Dern,fighter2,Women's Strawweight,SUB,2018,Switch,Orthodox,-1,1,-1.32,-4,-0.12,-14,0.67,22,28,0.1,-55.56,-2
+John Lineker,Brian Kelleher,fighter1,Bantamweight,KO/TKO,2018,Orthodox,Switch,-3,1,0.16,-5,-2.03,2,-0.77,32,-15,-0.1,11.63,4
+Lyoto Machida,Vitor Belfort,fighter1,Middleweight,KO/TKO,2018,Southpaw,Southpaw,1,0,1,7,-1.26,11,0.19,5,22,-0.2,11.59,1
+Karl Roberson,Cezar Ferreira,fighter2,Middleweight,SUB,2018,Southpaw,Southpaw,0,-4,0.7,14,-0.75,18,-1.07,16,-40,0.8,20.83,5
+Aleksei Oleinik,Junior Albini,fighter1,Heavyweight,SUB,2018,Orthodox,Orthodox,-1,6,-0.97,-2,-2.89,0,2.22,-11,-89,2.7,4.04,-14
+Davi Ramos,Nick Hein,fighter1,Lightweight,SUB,2018,Orthodox,Southpaw,0,4,0.58,5,-0.21,-6,2.48,25,-83,1.4,8.13,2
+Sean Strickland,Elizeu Zaleski dos Santos,fighter2,Welterweight,KO/TKO,2018,Orthodox,Orthodox,2,3,0.01,-5,0.67,2,1.01,47,31,0,6.96,5
+Warlley Alves,Sultan Aliev,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,0,-2,1.62,-5,1.74,-3,-0.4,-6,-20,0.9,-1.1,7
+Thales Leites,Jack Hermansson,fighter2,Middleweight,KO/TKO,2018,Orthodox,Orthodox,0,1,-2.36,-14,1.06,-11,0.11,-19,-39,0.8,-5.28,-7
+Alberto Mina,Ramazan Emeev,fighter2,Welterweight,DEC,2018,Orthodox,Southpaw,2,1,0.72,-9,2.3,-23,-0.15,-13,-30,-0.3,7.14,-5
+Markus Perez,James Bochnovic,fighter1,Middleweight,SUB,2018,Orthodox,Orthodox,-3,-8,1.9,21,0.86,28,1.31,42,81,1.3,10.61,-1
+Demian Maia,Kamaru Usman,fighter2,Welterweight,DEC,2018,Southpaw,Switch,1,-4,-1.86,-6,0.49,1,-1.35,-22,-35,0.7,-19.33,-10
+Alexa Grasso,Tatiana Suarez,fighter2,Women's Strawweight,SUB,2018,Orthodox,,0,-1,-0.25,-31,2.36,25,-7.19,-31,-37,-0.5,-16.67,3
+Jared Cannonier,Dominick Reyes,fighter2,Light Heavyweight,KO/TKO,2018,Switch,Southpaw,-5,0,-2.86,-10,0.61,16,-0.47,8,-41,-0.7,-26.67,-5
+Guido Cannetti,Diego Rivas,fighter1,Bantamweight,DEC,2018,Southpaw,Orthodox,-2,-1,1.43,12,-0.19,-1,1.01,-10,11,-0.6,-16.24,-12
+Andrea Lee,Veronica Macedo,fighter1,Women's Flyweight,DEC,2018,Orthodox,Southpaw,2,5,2.04,19,-3.05,30,2.46,-40,-50,1.5,19.32,-6
+Vicente Luque,Chad Laprise,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,1,4,-1.06,9,-0.57,-9,0.41,-4,-17,1,-15.69,5
+Zak Cummings,Michel Prazeres,fighter2,Welterweight,DEC,2018,Southpaw,Orthodox,6,8,-0.1,-17,0.54,-8,-3.13,0,19,0.2,-15.08,3
+Brandon Moreno,Alexandre Pantoja,fighter2,Flyweight,DEC,2018,Orthodox,Orthodox,2,3,-1.66,-13,-0.36,5,1.96,-9,1,-0.9,-13.27,3
+Enrique Barzola,Brandon Davis,fighter1,Featherweight,DEC,2018,,Orthodox,-3,-2,-1.45,10,-2.1,5,5.95,19,18,0.3,15.71,-1
+Henry Briones,Frankie Saenz,fighter2,Bantamweight,DEC,2018,,Orthodox,2,3,-0.52,-5,1.59,-1,-1.8,-32,-10,0.5,-4.37,0
+Felipe Silva,Claudio Puelles,fighter2,Lightweight,SUB,2018,Orthodox,Southpaw,1,5,3.07,12,-4.73,10,-1.33,77,71,-0.8,-1.82,-12
+Darren Till,Stephen Thompson,fighter1,Welterweight,DEC,2018,Southpaw,Orthodox,0,-1,-1.06,3,0.47,1,0.09,-12,8,0,11.7,9
+Neil Magny,Craig White,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,1,4,2.63,6,-1.06,17,2.62,46,10,-0.5,11.54,-3
+Arnold Allen,Mads Burnell,fighter1,Featherweight,SUB,2018,Southpaw,Orthodox,0,1,0.84,-8,-0.93,6,-1.24,10,44,0.4,17.86,0
+Makwan Amirkhani,Jason Knight,fighter1,Featherweight,DEC,2018,Southpaw,Orthodox,0,1,-1.2,16,-1.42,8,2.53,17,10,-0.1,5.43,-4
+Nordine Taleb,Claudio Silva,fighter2,Welterweight,SUB,2018,Orthodox,Southpaw,2,3,0.87,9,0.2,22,-0.74,51,21,-0.9,-22.31,-1
+Darren Stewart,Eric Spicely,fighter1,Middleweight,KO/TKO,2018,Orthodox,Orthodox,-1,1,1.2,2,0.07,-4,0.19,22,65,-1.5,2.56,4
+Daniel Kelly,Tom Breese,fighter2,Middleweight,KO/TKO,2018,Southpaw,Southpaw,-3,-3,-0.23,-11,2.07,-4,1.86,34,6,0,-15.2,-14
+Gina Mazany,Lina Lansberg,fighter2,Women's Bantamweight,DEC,2018,Southpaw,Orthodox,-1,3,-1.2,-7,-3.1,4,2.86,55,-13,-0.2,4.76,6
+Carlo Pedersoli,Bradley Scott,fighter1,Welterweight,DEC,2018,Southpaw,,-2,-1,0.89,-4,-0.16,3,2.56,60,-63,-0.7,17.95,4
+Molly McCann,Gillian Robertson,fighter2,Women's Flyweight,SUB,2018,Orthodox,,-1,-1,-0.7,-10,0.29,4,-4.23,-50,50,-2.1,15.28,-5
+Elias Theodorou,Trevor Smith,fighter1,Middleweight,DEC,2018,Orthodox,Orthodox,-2,0,0.62,-16,-0.96,6,-0.48,-2,4,-0.9,23.67,7
+Jimmie Rivera,Marlon Moraes,fighter2,Bantamweight,KO/TKO,2018,Orthodox,Orthodox,-2,1,1.19,9,0.54,-1,0.5,2,40,-0.5,13.89,1
+Gregor Gillespie,Vinc Pichel,fighter1,Lightweight,SUB,2018,Orthodox,Orthodox,-1,-1,0.07,6,-0.39,2,2.76,-15,-20,1,15.38,4
+Walt Harris,Daniel Spitz,fighter1,Heavyweight,KO/TKO,2018,Southpaw,Orthodox,-2,-5,0.11,-1,-2.14,12,-0.96,-33,75,0.2,-13.89,-7
+Jake Ellenberger,Ben Saunders,fighter2,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-5,-6,-0.72,-11,-0.75,9,1.82,7,18,-0.6,4.53,2
+Daniel Teymur,Julio Arce,fighter2,Featherweight,SUB,2018,Orthodox,Southpaw,-2,-1,-0.61,10,3.14,-12,-0.3,-16,-18,-0.9,-8.33,-1
+Sam Alvey,Gian Villante,fighter1,Light Heavyweight,DEC,2018,Southpaw,Orthodox,-1,-1,-1.05,3,-2.06,-1,-0.43,2,1,0.1,10.37,1
+Lauren Murphy,Sijara Eubanks,fighter2,Women's Flyweight,DEC,2018,Orthodox,,3,0,-0.67,6,1.24,-8,-1.5,-32,-21,0,0,-2
+Nik Lentz,David Teymur,fighter2,Lightweight,DEC,2018,Orthodox,Southpaw,-1,-5,-1.3,7,-0.41,-6,2.46,2,-38,1.3,-16.8,-5
+Chance Rencountre,Belal Muhammad,fighter2,Welterweight,DEC,2018,Southpaw,Orthodox,3,3,-3.56,-30,0.73,-14,-2.48,-39,-65,-0.2,-7.5,-2
+Desmond Green,Gleison Tibau,fighter1,Lightweight,DEC,2018,Southpaw,Southpaw,0,2,1.26,11,-0.3,8,-3.08,-18,-19,-0.8,-1.66,6
+Johnny Eduardo,Nathaniel Wood,fighter2,Bantamweight,SUB,2018,Orthodox,Orthodox,1,2,-1.63,4,-1.73,6,0,0,-38,-1.5,-12.35,-15
+Jarred Brooks,Jose Torres,fighter2,Flyweight,KO/TKO,2018,Switch,Orthodox,-1,-3,-2.25,10,-8.18,12,3.26,24,-6,0.6,-1.39,1
+Robert Whittaker,Yoel Romero,fighter1,Middleweight,DEC,2018,Orthodox,Southpaw,0,0,1.54,-10,0.88,-2,-1.49,25,6,0,2.75,13
+Colby Covington,Rafael Dos Anjos,fighter1,Welterweight,DEC,2018,Orthodox,Southpaw,3,2,-0.45,-6,-0.98,-7,3.52,11,14,-0.5,19.65,4
+Megan Anderson,Holly Holm,fighter2,Women's Featherweight,DEC,2018,Orthodox,Southpaw,4,4,-1.09,10,0.33,-24,-0.56,-31,-28,-0.1,-2.27,9
+Andrei Arlovski,Tai Tuivasa,fighter2,Heavyweight,DEC,2018,Orthodox,Southpaw,1,2,-2.08,-13,-0.3,-1,0.61,37,-21,0.3,-40,-14
+Curtis Blaydes,Alistair Overeem,fighter1,Heavyweight,KO/TKO,2018,Orthodox,Orthodox,0,0,0.67,-11,0.33,-5,5.43,-5,-47,-1,12.84,11
+Carla Esparza,Claudia Gadelha,fighter2,Women's Strawweight,DEC,2018,,Orthodox,-3,0,-1.03,-4,-1.4,-4,-0.54,-17,-18,-0.6,-14.21,-1
+Mirsad Bektic,Ricardo Lamas,fighter1,Featherweight,DEC,2018,Orthodox,Orthodox,0,-1,0.05,1,-1.19,3,1.93,21,53,-0.6,19.78,9
+Chris de la Rocha,Rashad Coulter,fighter1,Heavyweight,KO/TKO,2018,Orthodox,Orthodox,4,4,0.54,-8,-1.51,-6,2.41,27,43,1.6,0,-2
+Rashad Evans,Anthony Smith,fighter2,Light Heavyweight,KO/TKO,2018,Orthodox,Orthodox,-4,-1,-1.35,-10,-1.72,17,2.4,16,27,-1,2.27,-9
+Sergio Pettis,Joseph Benavidez,fighter1,Flyweight,DEC,2018,Orthodox,Southpaw,2,4,0.16,5,0.06,1,-0.35,12,2,-0.3,-2.38,9
+Charles Oliveira,Clay Guida,fighter1,Lightweight,SUB,2018,Orthodox,Orthodox,3,4,0.71,17,0.61,-11,-0.56,4,-9,2.1,3.34,8
+Mike Santiago,Dan Ige,fighter2,Featherweight,KO/TKO,2018,Orthodox,Orthodox,3,-2,-0.46,6,0.4,-28,-0.42,20,3,-0.4,-18.18,-2
+Donald Cerrone,Leon Edwards,fighter2,Welterweight,DEC,2018,Orthodox,Southpaw,1,-1,1.71,0,2.03,-1,0.02,5,1,0.9,-10.3,-8
+Ovince Saint Preux,Tyson Pedro,fighter1,Light Heavyweight,SUB,2018,Southpaw,Orthodox,0,1,0.05,-13,0.32,-4,0.18,12,9,-0.9,-12.06,-8
+Jessica Eye,Jessica-Rose Clark,fighter1,Women's Flyweight,DEC,2018,Orthodox,Orthodox,1,2,-1.18,-14,-0.81,-2,-0.74,5,3,0.1,5,-1
+Daichi Abe,Li Jingliang,fighter2,Welterweight,DEC,2018,Orthodox,Orthodox,-1,0,-1.04,-10,1.18,-4,-0.82,18,-56,0,0,3
+Teruto Ishihara,Petr Yan,fighter2,Bantamweight,KO/TKO,2018,Southpaw,Switch,0,2,-3.56,0,-0.24,-19,0.52,16,-56,0,-33.01,-2
+Felipe Arantes,Song Yadong,fighter2,Bantamweight,KO/TKO,2018,Orthodox,Orthodox,0,6,-0.93,9,1.89,-17,-0.12,-53,-59,-1.4,-14.16,-9
+Rolando Dy,Shane Young,fighter2,Featherweight,KO/TKO,2018,Orthodox,Orthodox,0,-3,-1.91,-4,-0.6,-1,-0.92,-13,4,0,-25,-3
+Song Kenan,Hector Aldana,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,1,-1,0.24,13,-1.21,-6,-1.21,-100,0,0,20.63,2
+Shinsho Anzai,Jake Matthews,fighter2,Welterweight,SUB,2018,Orthodox,Orthodox,-4,-3,0.18,10,1.59,-11,-0.68,-25,9,-0.9,-5.43,-9
+Viviane Pereira,Yan Xiaonan,fighter2,Women's Strawweight,DEC,2018,Orthodox,Orthodox,-4,0,-2.87,-8,1.28,-14,0.25,100,-38,0.2,4.85,4
+Naoki Inoue,Matt Schnell,fighter2,Flyweight,DEC,2018,Orthodox,Orthodox,1,1,0.03,0,-0.3,-3,-0.39,-25,6,1.7,16.67,7
+Ulka Sasaki,Jenel Lausa,fighter1,Flyweight,SUB,2018,Southpaw,Orthodox,5,3,0.72,-1,-1.03,-3,2.48,-23,-10,0.4,14.08,1
+Melinda Fabian,Ji Yeon Kim,fighter2,Women's Flyweight,DEC,2018,,Orthodox,-1,-6,-0.44,9,-0.91,3,0,0,0,0,-32.73,-2
+Brad Tavares,Israel Adesanya,fighter2,Middleweight,DEC,2018,Orthodox,Switch,-3,-6,-1.49,-15,0.65,-16,1.04,27,-8,-0.3,-26.09,-2
+Joe Giannetti,Michael Trizano,fighter2,Lightweight,DEC,2018,Southpaw,Orthodox,1,1,-1.17,-16,1.07,-27,0.5,-34,-86,-1,-12.5,4
+Alex Caceres,Martin Bravo,fighter1,Featherweight,DEC,2018,Southpaw,Southpaw,2,2,-2.18,12,-2.41,13,-1.44,42,-26,0.8,-31.87,-5
+Barb Honchak,Roxanne Modafferi,fighter2,Women's Flyweight,KO/TKO,2018,,,-3,-4,0.27,0,-0.8,11,-1.13,-15,-41,1.1,8.77,-3
+Alessio Di Chirico,Julian Marquez,fighter1,Middleweight,DEC,2018,Orthodox,Orthodox,-2,-1,-0.44,1,-0.39,10,2.48,56,25,-3,7.94,-1
+Rachael Ostovich,Montana De La Rosa,fighter2,Women's Flyweight,SUB,2018,,,-4,-6,-1.11,2,0.56,8,0.94,100,100,0.1,-19.23,-4
+Richie Smullen,Luis Pena,fighter2,Lightweight,SUB,2018,Orthodox,Southpaw,-6,-8,0.31,49,-0.87,19,6.87,46,-40,-0.8,-23.33,-2
+Allan Zuniga,John Gunther,fighter2,Lightweight,DEC,2018,Orthodox,Orthodox,-2,-2,2.28,15,-1.92,15,-7.08,-42,57,1,8.89,7
+Steven Peterson,Matt Bessette,fighter1,Featherweight,DEC,2018,Orthodox,Orthodox,0,0,0.73,-7,1.06,-1,1.03,-11,39,0,5.16,6
+Gerald Meerschaert,Oskar Piechota,fighter1,Middleweight,SUB,2018,Southpaw,Southpaw,1,1,0.38,-11,0.76,-6,1.88,-8,25,-0.8,-8.94,-3
+Stipe Miocic,Daniel Cormier,fighter2,Heavyweight,KO/TKO,2018,Orthodox,Orthodox,5,8,0.92,2,0.5,4,0.34,-7,-3,-0.5,-5.95,3
+Francis Ngannou,Derrick Lewis,fighter2,Heavyweight,DEC,2018,Orthodox,Orthodox,1,4,-0.97,-16,-0.35,3,-0.49,-23,15,0.5,3.57,1
+Mike Perry,Paul Felder,fighter1,Welterweight,DEC,2018,Orthodox,Orthodox,-1,1,0.5,2,1.48,6,0.47,22,9,-0.4,-3.95,7
+Anthony Pettis,Michael Chiesa,fighter1,Lightweight,SUB,2018,Orthodox,Southpaw,-3,-3,0.68,8,0.71,4,-2.11,15,-10,-0.1,-5.36,0
+Khalil Rountree Jr.,Gokhan Saki,fighter1,Light Heavyweight,KO/TKO,2018,Southpaw,Orthodox,1,3,-4.79,-24,-1.28,-15,0,0,-50,0.3,33.33,7
+Uriah Hall,Paulo Costa,fighter2,Middleweight,KO/TKO,2018,Orthodox,,-1,7,-5.39,-7,-2.18,2,0.93,38,-10,0.3,-39.13,-7
+Rob Font,Raphael Assuncao,fighter2,Bantamweight,DEC,2018,Orthodox,Orthodox,3,5,1,-1,1.46,-7,-0.27,-7,-54,0.6,-5.43,5
+Lando Vannata,Drakkar Klose,fighter2,Lightweight,DEC,2018,Orthodox,Orthodox,0,1,1.68,-9,2.89,-9,-0.48,1,1,0.4,-17.53,4
+Curtis Millender,Max Griffin,fighter1,Welterweight,DEC,2018,Orthodox,Orthodox,3,0,0.1,-2,-0.33,7,0.55,75,0,-0.3,10.53,2
+Gilbert Burns,Dan Hooker,fighter2,Lightweight,KO/TKO,2018,Orthodox,Switch,-2,-4,-1.27,-4,-0.81,1,1.69,-6,-38,0.4,9.25,-4
+Emily Whitmire,Jamie Moyle,fighter1,Women's Strawweight,DEC,2018,,Orthodox,4,-2,-0.91,-20,-0.98,-8,-0.13,29,25,0,2.86,2
+Junior Dos Santos,Blagoy Ivanov,fighter1,Heavyweight,DEC,2018,Orthodox,Southpaw,5,4,2.79,26,-1.23,3,0.36,55,-20,0.1,-5.04,-2
+Sage Northcutt,Zak Ottow,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,1,-1,0.53,13,-0.78,2,1.04,4,-20,0.1,11.89,10
+Rick Glenn,Dennis Bermudez,fighter1,Featherweight,DEC,2018,Southpaw,Orthodox,6,4,-0.25,-2,0.8,-5,-3,-22,-17,-0.6,12.39,3
+Niko Price,Randy Brown,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-3,-2,-0.39,-15,1.67,1,0.45,-13,-2,1.2,3.08,-1
+Myles Jury,Chad Mendes,fighter2,Featherweight,KO/TKO,2018,Orthodox,Orthodox,4,7,-0.15,-9,-0.66,3,-1.58,1,-50,0,3.18,3
+Marion Reneau,Cat Zingano,fighter2,Women's Bantamweight,DEC,2018,Orthodox,Southpaw,0,0,0.85,-20,0.84,21,-2.55,35,10,0.3,-12.64,-5
+Alejandro Perez,Eddie Wineland,fighter1,Bantamweight,DEC,2018,Orthodox,Orthodox,-1,-2,0.5,7,-0.53,-5,0.17,-17,-22,0,13.7,5
+Darren Elkins,Alexander Volkanovski,fighter2,Featherweight,DEC,2018,Orthodox,Orthodox,4,0,-2.73,-26,0.28,-10,-1.19,-6,-25,0.6,-16.61,-4
+Justin Scoggins,Said Nurmagomedov,fighter2,Flyweight,DEC,2018,Southpaw,Orthodox,-1,-4,-0.77,-6,0.03,-8,2.42,54,-18,0.5,-23.56,0
+Raoni Barcelos,Kurt Holobaugh,fighter1,Featherweight,KO/TKO,2018,Orthodox,Orthodox,-4,-6,2.02,12,4.64,5,3.28,35,16,-1,21.47,1
+Jennifer Maia,Liz Carmouche,fighter2,Women's Flyweight,DEC,2018,Orthodox,Orthodox,-2,-2,-0.5,-16,0.85,-28,-2.95,-52,-41,-0.2,6.72,4
+Elias Garcia,Mark De La Rosa,fighter2,Flyweight,SUB,2018,Southpaw,Orthodox,-1,2,-0.53,-8,0.57,-14,-1.05,-20,-17,-0.5,-5.95,-2
+Jessica Aguilar,Jodie Esquibel,fighter1,Women's Strawweight,DEC,2018,Orthodox,Orthodox,0,-1,0.8,11,-1.94,7,1.33,28,-54,0,16.92,-4
+Mauricio Rua,Anthony Smith,fighter2,Light Heavyweight,KO/TKO,2018,Orthodox,Orthodox,-3,0,0.26,4,-1.5,9,1.58,20,-1,-0.1,-1.01,-7
+Corey Anderson,Glover Teixeira,fighter1,Light Heavyweight,DEC,2018,Orthodox,Orthodox,1,3,1.05,4,-1.37,3,3.32,6,15,-0.8,-4.41,10
+Vitor Miranda,Abu Azaitar,fighter2,Middleweight,DEC,2018,Orthodox,Orthodox,4,1,-0.22,8,1.68,1,-0.05,-45,25,0.2,-17.35,-7
+Marcin Tybura,Stefan Struve,fighter1,Heavyweight,DEC,2018,Orthodox,Orthodox,-8,-6,0.46,7,-0.93,5,1.07,11,25,-1.7,6.53,-3
+David Zawada,Danny Roberts,fighter2,Welterweight,DEC,2018,Orthodox,Southpaw,-1,1,-1.51,10,-0.44,-7,2,40,43,4.5,-4.21,3
+Nasrat Haqparast,Marc Diakiese,fighter1,Lightweight,DEC,2018,Southpaw,Orthodox,0,-1,2.82,14,0.37,21,-1.72,-6,17,0,3.33,2
+Nick Hein,Damir Hadzovic,fighter2,Lightweight,DEC,2018,Southpaw,Orthodox,-3,-4,-0.11,-12,0.03,-3,0.8,33,52,-0.3,-1.32,-2
+Emil Meek,Bartosz Fabinski,fighter2,Welterweight,DEC,2018,Switch,Orthodox,-1,-1,0.02,-32,1.29,-21,-6.84,-20,-32,1.3,-22.35,2
+Nad Narimani,Khalid Taha,fighter1,Featherweight,DEC,2018,Orthodox,Orthodox,3,1,2.17,-6,-0.4,31,3.5,43,55,0,0,-5
+Justin Ledet,Aleksandar Rakic,fighter2,Light Heavyweight,DEC,2018,Orthodox,Orthodox,0,2,-1.53,-10,3.14,-6,-1.18,-25,-46,0.3,-9.09,-4
+Davey Grant,Manny Bermudez,fighter2,Bantamweight,SUB,2018,,Orthodox,-2,-2,1.84,8,-1.29,7,-0.51,10,64,-8.8,-28.57,-9
+Darko Stosic,Jeremy Kimball,fighter1,Light Heavyweight,KO/TKO,2018,Orthodox,Switch,0,4,-0.01,10,-2.6,26,-1.41,-20,50,0,27.64,1
+Damian Stasiak,Liu Pingyuan,fighter2,Bantamweight,DEC,2018,Orthodox,Orthodox,-1,-2,-0.27,-5,1.5,1,1.64,-65,-19,-1.4,-8.09,-3
+Dustin Poirier,Eddie Alvarez,fighter1,Lightweight,KO/TKO,2018,Southpaw,Orthodox,0,3,1.27,8,-0.7,1,-1.17,5,-23,0.8,-0.56,5
+Jeremy Stephens,Jose Aldo,fighter2,Featherweight,KO/TKO,2018,Orthodox,Orthodox,1,1,-0.41,-4,-0.18,-8,0.43,-32,-28,0.2,-21.98,0
+Tecia Torres,Joanna Jedrzejczyk,fighter2,Women's Strawweight,DEC,2018,Orthodox,Orthodox,-5,-5,-2,1,0.44,-1,0.68,-49,-40,0.1,-11.31,2
+Olivier Aubin-Mercier,Alexander Hernandez,fighter2,Lightweight,DEC,2018,Southpaw,Orthodox,0,-2,-0.41,3,1.21,11,-0.85,-5,2,0.7,-10.91,-3
+Alex Morono,Jordan Mein,fighter2,Welterweight,DEC,2018,Orthodox,Orthodox,-1,-1,0.31,-4,-0.15,-5,-1.56,-58,-26,0.4,-2.09,1
+Austin Arnett,Hakeem Dawodu,fighter2,Featherweight,DEC,2018,Orthodox,Orthodox,4,-1,-0.63,-3,4.33,-3,0.56,18,-60,0.3,-3.81,0
+Islam Makhachev,Kajan Johnson,fighter1,Lightweight,SUB,2018,Orthodox,Orthodox,-1,-5,-0.23,18,-0.77,0,2.79,49,38,1.1,33.59,7
+Ion Cutelaba,Gadzhimurad Antigulov,fighter1,Light Heavyweight,KO/TKO,2018,Southpaw,Orthodox,2,5,2.84,-18,-2.29,27,-7.56,16,69,-3.8,-2.22,6
+John Makdessi,Ross Pearson,fighter1,Lightweight,DEC,2018,Orthodox,Orthodox,0,-1,1.82,10,-0.15,9,-0.75,-36,12,0,14.83,1
+Katlyn Chookagian,Alexis Davis,fighter1,Women's Flyweight,DEC,2018,Orthodox,Orthodox,3,0,-0.15,-14,-0.19,9,-0.8,-38,22,-0.8,21.3,4
+Matheus Nicolau,Dustin Ortiz,fighter2,Flyweight,KO/TKO,2018,,Orthodox,1,1,0.92,8,0.19,14,-1.11,31,46,1.5,3.39,5
+Randa Markos,Nina Ansaroff,fighter2,Women's Strawweight,DEC,2018,Orthodox,Orthodox,-1,-1,-1.9,-6,-0.05,6,1.2,-14,-27,-0.6,-14.29,0
+Alvaro Herrera,Devin Powell,fighter2,Lightweight,KO/TKO,2018,,Orthodox,0,1,-0.99,-3,-0.27,4,0,0,33,0.5,-9.23,2
+TJ Dillashaw,Cody Garbrandt,fighter1,Bantamweight,KO/TKO,2018,Orthodox,Orthodox,-2,2,1.9,4,-0.49,0,0.69,4,-14,1,0.38,-5
+Demetrious Johnson,Henry Cejudo,fighter2,Flyweight,DEC,2018,Orthodox,Orthodox,-1,2,0.01,12,-0.94,0,1.04,21,-23,0.4,0.43,-1
+Cub Swanson,Renato Moicano,fighter2,Featherweight,SUB,2018,Orthodox,Orthodox,-3,-2,-1.55,3,-0.17,-6,-0.1,-2,-16,0.1,-15.24,-6
+Polyana Viana,JJ Aldrich,fighter2,Women's Strawweight,DEC,2018,Orthodox,Southpaw,0,0,-0.64,0,-1.43,-12,1.34,12,-8,2.4,5.56,0
+Thiago Santos,Kevin Holland,fighter1,Middleweight,DEC,2018,Orthodox,Orthodox,-3,-5,1.09,4,-0.99,6,0.87,37,10,-0.4,-0.47,-8
+Pedro Munhoz,Brett Johns,fighter1,Bantamweight,DEC,2018,Orthodox,Orthodox,-1,-7,1.38,-4,0.6,3,-2.57,-27,-7,0.8,-8.24,-6
+Ricky Simon,Montel Jackson,fighter1,Bantamweight,DEC,2018,Orthodox,Southpaw,-4,-6,-1.14,-3,1.4,7,4.92,-50,-2,0.3,7.62,0
+Kyung Ho Kang,Ricardo Ramos,fighter2,Bantamweight,DEC,2018,Orthodox,Orthodox,0,0,-0.97,0,-1.34,0,0.86,16,3,0.6,-31.44,-8
+Sheymon Moraes,Matt Sayles,fighter1,Featherweight,DEC,2018,Orthodox,Orthodox,1,4,-3.79,3,-1.42,9,0,0,-53,0,6.84,-4
+Alex Perez,Jose Torres,fighter1,Flyweight,KO/TKO,2018,Orthodox,Orthodox,2,0,0.88,10,-6.76,11,2.4,10,25,2.1,-4.89,0
+Marlon Vera,Wuliji Buren,fighter1,Bantamweight,KO/TKO,2018,Switch,Orthodox,-1,1,1.3,5,1.08,-9,-2.84,-3,-12,1.3,4.17,3
+James Vick,Justin Gaethje,fighter2,Lightweight,KO/TKO,2018,Orthodox,Orthodox,4,6,-4.37,-16,-7.49,9,0.32,33,-24,0.8,-3.81,-1
+Michael Johnson,Andre Fili,fighter1,Featherweight,DEC,2018,Southpaw,Orthodox,-1,-1,0.59,2,0.24,5,-2.21,-1,8,-0.1,-14.39,-4
+Cortney Casey,Angela Hill,fighter1,Women's Strawweight,DEC,2018,Orthodox,Orthodox,4,3,-0.99,-13,-0.76,-11,-0.02,-30,-50,0.5,-4.4,2
+Jake Ellenberger,Bryan Barberena,fighter2,Welterweight,KO/TKO,2018,Orthodox,Southpaw,-3,-1,-2.51,-10,-0.88,11,1.7,7,39,0.1,-6.29,-4
+Deiveson Figueiredo,John Moraga,fighter1,Flyweight,KO/TKO,2018,Orthodox,Orthodox,-1,2,-0.32,11,-0.93,-2,1.84,30,6,2.8,26.92,3
+Tim Williams,Eryk Anders,fighter2,Middleweight,KO/TKO,2018,Orthodox,Southpaw,1,1,0.2,-13,0.12,3,-0.67,-2,42,-0.2,-9.62,-1
+Warlley Alves,James Krause,fighter2,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-3,-1,-1.69,0,-0.06,-12,0.04,26,34,0.2,5.49,5
+Iuri Alcantara,Cory Sandhagen,fighter2,Bantamweight,KO/TKO,2018,Southpaw,Switch,-2,1,-7.13,-11,0.02,-15,0.43,-38,60,0.8,-13.91,-12
+Andrew Sanchez,Markus Perez,fighter1,Middleweight,DEC,2018,Orthodox,Orthodox,0,1,2.28,1,0.33,-1,1.48,-5,19,-1.3,-10,0
+George Sullivan,Mickey Gall,fighter2,Welterweight,SUB,2018,Orthodox,Switch,-2,-1,2.06,-13,0.21,14,-0.96,-46,-12,-4.5,-15.33,-11
+Jon Tuck,Drew Dober,fighter2,Lightweight,DEC,2018,Orthodox,Southpaw,3,3,-1.45,2,-0.43,6,-0.65,16,-10,0.9,-2.3,-4
+Rani Yahya,Luke Sanders,fighter1,Bantamweight,SUB,2018,Orthodox,Southpaw,0,0,-4.44,-13,-2.14,-5,2.69,1,-48,1.9,-7.78,-1
+Tyron Woodley,Darren Till,fighter1,Welterweight,SUB,2018,Orthodox,Southpaw,-3,0,0.23,3,-0.72,0,0.84,9,8,0.5,-6.86,-10
+Karolina Kowalkiewicz,Jessica Andrade,fighter2,Women's Strawweight,KO/TKO,2018,Orthodox,Orthodox,2,2,-0.82,-13,0.12,5,-3.06,-44,12,-0.5,5.25,-6
+Brandon Davis,Zabit Magomedsharipov,fighter2,Featherweight,SUB,2018,Orthodox,Orthodox,-3,-1,0.48,-19,2.01,-2,-7.02,-30,-20,-1.3,-29.83,-1
+John Dodson,Jimmie Rivera,fighter2,Bantamweight,DEC,2018,Orthodox,Orthodox,-1,-2,-1.06,-2,0.06,0,-0.26,3,-18,0,-23.92,-5
+Abdul Razak Alhassan,Niko Price,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,-2,-3,2.09,17,0.16,3,-0.87,5,-22,-1.8,10.91,-4
+Carla Esparza,Tatiana Suarez,fighter2,Women's Strawweight,KO/TKO,2018,,,-4,-4,-2.55,-35,2.35,11,-4.1,-46,-60,-0.4,-30,-3
+Aljamain Sterling,Cody Stamann,fighter1,Bantamweight,SUB,2018,Orthodox,Orthodox,1,7,-1.08,0,-2.02,6,-1.86,-35,-37,1,-5.26,0
+Frank Camacho,Geoff Neal,fighter2,Welterweight,KO/TKO,2018,Orthodox,Southpaw,-1,-2,-1.51,-10,4.76,-11,1.46,45,0,-1.4,-8.33,-1
+Darren Stewart,Charles Byrd,fighter1,Middleweight,KO/TKO,2018,Orthodox,Orthodox,2,1,-0.71,-17,1.5,-8,-0.44,-15,8,-1.9,2.56,7
+Diego Sanchez,Craig White,fighter1,Welterweight,DEC,2018,Southpaw,Orthodox,-4,-4,1.53,-3,-0.37,18,1.52,22,0,0.1,12.3,-9
+Jim Miller,Alex White,fighter1,Lightweight,SUB,2018,Southpaw,Southpaw,-4,0,-1.07,0,0.01,-5,0.81,-4,-20,1.7,-1.54,-5
+Irene Aldana,Lucie Pudilova,fighter1,Women's Bantamweight,DEC,2018,Orthodox,Orthodox,1,1,0.82,4,2.05,8,0.5,50,17,-0.5,-3.5,-6
+Jarred Brooks,Roberto Sanchez,fighter1,Flyweight,DEC,2018,Switch,Orthodox,-3,-4,1.16,6,-0.12,16,0.93,-5,19,-0.1,7.5,7
+Mark Hunt,Aleksei Oleinik,fighter2,Heavyweight,SUB,2018,Orthodox,Orthodox,-4,-8,-0.17,-5,-0.44,-2,-2.46,16,53,-2.5,-35.39,-3
+Nikita Krylov,Jan Blachowicz,fighter2,Light Heavyweight,SUB,2018,Orthodox,Orthodox,1,-1,1.95,8,-0.39,-8,-0.97,-26,-15,1.5,3.98,9
+Shamil Abdurakhimov,Andrei Arlovski,fighter1,Heavyweight,DEC,2018,Orthodox,Orthodox,0,-1,-0.69,3,-0.38,3,0.89,-11,-13,-0.1,22.61,2
+Thiago Alves,Aleksei Kunchenko,fighter2,Welterweight,DEC,2018,Orthodox,Orthodox,1,0,0.68,12,-0.6,-4,-0.26,18,63,0.3,-32.5,-1
+Khalid Murtazaliev,CB Dollaway,fighter1,Middleweight,KO/TKO,2018,Orthodox,Orthodox,-2,0,2.15,22,-2.18,24,3.95,46,-29,-1.2,23.21,10
+Jin Soo Son,Petr Yan,fighter2,Bantamweight,DEC,2018,Orthodox,Switch,-1,2,-2.9,-19,2.93,-16,1,14,12,0,-15.91,0
+Rustam Khabilov,Kajan Johnson,fighter1,Lightweight,DEC,2018,Orthodox,Orthodox,-3,-2,-0.46,-8,0.26,0,2.5,8,-1,-0.1,27.94,2
+Desmond Green,Mairbek Taisumov,fighter2,Lightweight,DEC,2018,Southpaw,Orthodox,1,0,0.33,1,0.19,8,-0.66,-42,-14,0,-11.96,1
+Magomed Ankalaev,Marcin Prachnio,fighter1,Light Heavyweight,KO/TKO,2018,Orthodox,Orthodox,0,1,1.53,18,-1.76,18,0,0,71,0,14.44,4
+Adam Yandiev,Jordan Johnson,fighter2,Middleweight,SUB,2018,Orthodox,Orthodox,-5,-5,-3.27,-39,3.5,-17,-3.25,-42,-75,-1.2,-10,0
+Ramazan Emeev,Stefan Sekulic,fighter1,Welterweight,DEC,2018,Southpaw,Southpaw,-2,1,1.04,10,-1,13,1,13,47,0.3,5.71,-5
+Merab Dvalishvili,Terrion Ware,fighter1,Bantamweight,DEC,2018,Orthodox,Orthodox,-2,-3,-0.24,2,-3.85,8,6.83,19,36,0,1.28,5
+Eryk Anders,Thiago Santos,fighter2,Light Heavyweight,KO/TKO,2018,Southpaw,Orthodox,1,-1,-2.02,1,1.39,-17,1.61,5,-7,0.1,8.62,3
+Carlo Pedersoli,Alex Oliveira,fighter2,Welterweight,KO/TKO,2018,Southpaw,Orthodox,0,-1,1.4,-16,2.07,14,-0.57,37,-57,-0.9,11.54,5
+Sam Alvey,Rogerio Nogueira,fighter2,Light Heavyweight,KO/TKO,2018,Southpaw,Southpaw,0,0,0.81,11,1.01,-5,-0.58,-19,21,-0.7,-0.86,10
+Andre Ewell,Renan Barao,fighter1,Bantamweight,DEC,2018,Southpaw,Orthodox,5,6,-0.17,7,-0.83,-2,-0.5,55,-51,-0.6,-4.04,1
+Christos Giagos,Charles Oliveira,fighter2,Lightweight,SUB,2018,Orthodox,Orthodox,0,-3,-0.88,-17,-0.87,-4,-2.39,-21,-19,-2.3,-4.55,1
+Francisco Trinaldo,Evan Dunham,fighter1,Lightweight,KO/TKO,2018,Southpaw,Southpaw,-1,0,-2.08,6,-1.07,-1,-0.66,12,-17,-0.5,12.64,-3
+Ryan Spann,Luis Henrique,fighter1,Light Heavyweight,DEC,2018,Orthodox,Orthodox,3,7,1.44,5,0.33,-3,-3.09,-36,16,0.9,12.5,-2
+Sergio Moraes,Ben Saunders,fighter1,Welterweight,SUB,2018,Orthodox,Orthodox,-2,-5,-0.58,-5,-0.32,11,0.92,-6,7,-0.4,10.83,-1
+Thales Leites,Hector Lombard,fighter1,Middleweight,DEC,2018,Orthodox,Southpaw,4,7,-0.89,-6,-0.36,-1,0.41,-21,-47,0.6,3.34,3
+Conor McGregor,Khabib Nurmagomedov,fighter2,Lightweight,SUB,2018,Southpaw,Orthodox,-1,4,0.98,-1,2.73,-11,-4.34,18,-14,-0.6,-16,0
+Anthony Pettis,Tony Ferguson,fighter2,Lightweight,KO/TKO,2018,Orthodox,Orthodox,-1,-4,-2.66,1,-0.39,-9,0.16,12,-18,-0.2,-16.87,3
+Ovince Saint Preux,Dominick Reyes,fighter2,Light Heavyweight,DEC,2018,Southpaw,Southpaw,-1,3,-3.81,-13,0.56,-7,0.5,15,-19,-0.1,-34.29,-6
+Derrick Lewis,Alexander Volkov,fighter1,Heavyweight,KO/TKO,2018,Orthodox,Orthodox,-4,-1,-2.55,-10,-0.09,-12,-0.37,-52,-22,-0.3,-6.08,-3
+Michelle Waterson,Felice Herrig,fighter1,Women's Strawweight,DEC,2018,Orthodox,Orthodox,-1,-3,-0.2,26,-1.95,1,1.03,38,-14,0.5,9.09,2
+Sergio Pettis,Jussier Formiga,fighter2,Flyweight,DEC,2018,Orthodox,Orthodox,1,2,2.26,-1,0.39,0,-0.95,2,-17,-0.3,-0.53,8
+Jalin Turner,Vicente Luque,fighter2,Welterweight,KO/TKO,2018,Southpaw,Orthodox,4,2,7.12,2,6.22,-12,0.21,50,-61,-1,-3.03,4
+Aspen Ladd,Tonya Evinger,fighter1,Women's Bantamweight,KO/TKO,2018,Orthodox,Orthodox,-1,-4,5.42,16,0.22,-4,0.47,67,72,-1.4,29.63,14
+Alan Patrick,Scott Holtzman,fighter2,Lightweight,KO/TKO,2018,Southpaw,Orthodox,2,5,-2.59,-9,-0.83,-11,1.11,-19,6,0.1,2.52,0
+Lina Lansberg,Yana Kunitskaya,fighter2,Women's Bantamweight,DEC,2018,Orthodox,Orthodox,1,-3,-0.55,-8,1.18,5,-4.39,-28,33,-0.6,-2.08,-7
+Nik Lentz,Gray Maynard,fighter1,Lightweight,KO/TKO,2018,Orthodox,Orthodox,-1,-2,1.5,17,0.36,-17,0.59,-12,-37,0.6,13.76,5
+Anthony Rocco Martin,Ryan LaFlare,fighter1,Welterweight,KO/TKO,2018,Orthodox,Southpaw,-1,-1,-0.08,1,1.1,-7,-1.13,-19,-3,1.1,-4.58,6
+Anthony Smith,Volkan Oezdemir,fighter1,Light Heavyweight,SUB,2018,Orthodox,Orthodox,2,1,-2.2,-1,-0.7,-7,0.18,-22,-24,1,-12.88,-1
+Michael Johnson,Artem Lobov,fighter1,Featherweight,DEC,2018,Southpaw,Southpaw,1,8,0.79,-3,-0.86,8,0.2,20,25,0.1,15.44,0
+Misha Cirkunov,Patrick Cummins,fighter1,Light Heavyweight,SUB,2018,Orthodox,Orthodox,1,1,0.29,2,-0.85,10,0.02,18,43,2.2,15.28,7
+Gian Villante,Ed Herman,fighter1,Light Heavyweight,DEC,2018,Orthodox,Orthodox,2,-1,1.07,-7,2.26,12,-1.88,-28,23,-1.3,1.42,5
+Court McGee,Alex Garcia,fighter1,Welterweight,DEC,2018,Orthodox,Orthodox,2,3,2.91,5,0.4,4,-1.74,-28,-4,0.4,2.65,-3
+Sean Strickland,Nordine Taleb,fighter1,Welterweight,KO/TKO,2018,Orthodox,Orthodox,0,2,0.92,-19,1.1,-3,-0.93,-19,10,0.5,16.96,10
+Nasrat Haqparast,Thibault Gouti,fighter1,Lightweight,DEC,2018,Southpaw,Orthodox,0,0,1.74,12,-2.37,25,-0.9,-55,-5,-0.3,12.75,8
+Sarah Moras,Talita Bernardo,fighter2,Women's Bantamweight,DEC,2018,,Orthodox,3,-1,-1,-9,-0.47,-14,-1.05,-3,-12,0.2,-16.67,1
+Te Edwards,Don Madge,fighter2,Lightweight,KO/TKO,2018,Orthodox,Southpaw,-4,0,-2.61,-23,3.08,-34,2.63,100,0,-2.9,8.33,0
+Marcelo Golm,Arjan Bhullar,fighter2,Heavyweight,DEC,2018,Orthodox,Orthodox,2,0,2.1,8,1.54,-14,-1.15,-16,-13,0.5,-13.89,6
+Stevie Ray,Jessin Ayari,fighter1,Lightweight,DEC,2018,Southpaw,Orthodox,-2,-3,-0.07,7,-0.85,-4,0.73,55,22,0.4,-2.86,-2
+Daniel Cormier,Derrick Lewis,fighter1,Heavyweight,SUB,2018,Orthodox,Orthodox,-4,-7,1.08,-1,0.16,14,1.55,22,25,0.5,16.67,-6
+Jacare Souza,Chris Weidman,fighter1,Middleweight,KO/TKO,2018,Orthodox,Orthodox,-1,-6,-0.54,4,-0.77,12,-0.75,-11,-20,0.7,1.01,-5
+Jared Cannonier,David Branch,fighter1,Middleweight,KO/TKO,2018,Switch,Orthodox,-2,-1,1.96,10,0.94,11,-2.37,1,2,0,-8.15,3
+Jack Marshman,Karl Roberson,fighter2,Middleweight,DEC,2018,Orthodox,Southpaw,-1,-1,0.34,-25,2.39,-17,-1.9,-75,-28,-1.3,-14.17,-1
+Israel Adesanya,Derek Brunson,fighter1,Middleweight,KO/TKO,2018,Switch,Southpaw,3,3,1.48,11,-0.47,21,-2.74,-28,-15,-0.3,28,5
+Jordan Rinaldi,Jason Knight,fighter1,Featherweight,DEC,2018,Orthodox,Orthodox,0,1,-1.56,7,-0.76,3,0.73,14,-27,-0.1,-6.92,-5
+Sijara Eubanks,Roxanne Modafferi,fighter1,Women's Flyweight,DEC,2018,,,-3,-2,0.63,4,-2.9,13,1.37,47,42,-0.2,13.53,3
+Julio Arce,Sheymon Moraes,fighter2,Featherweight,DEC,2018,Southpaw,Orthodox,-1,-2,1.65,-5,-0.61,0,0.3,16,46,0.9,-1.28,-1
+Ben Saunders,Lyman Good,fighter2,Welterweight,KO/TKO,2018,Orthodox,Orthodox,2,3,-2.54,1,-0.99,-15,-0.38,-60,-17,1,-17.14,-2
+Kurt Holobaugh,Shane Burgos,fighter2,Featherweight,SUB,2018,Orthodox,Orthodox,0,-2,-1.42,-2,-1.23,-17,0.09,-60,-44,0.7,-20.83,-5
+Marcos Rogerio de Lima,Adam Wieczorek,fighter1,Heavyweight,DEC,2018,Orthodox,Orthodox,-4,-6,1.89,13,1.12,5,0.49,27,-18,0.5,-13.77,-7
+Chan Sung Jung,Yair Rodriguez,fighter2,Featherweight,KO/TKO,2018,Orthodox,,-4,1,0.06,-4,0.7,2,-0.21,8,7,-0.3,-12.03,-5
+Donald Cerrone,Mike Perry,fighter1,Welterweight,SUB,2018,Orthodox,Orthodox,3,2,0.07,3,-0.42,-3,0.45,-21,3,1.4,-1.09,-8
+Germaine de Randamie,Raquel Pennington,fighter1,Women's Bantamweight,DEC,2018,Orthodox,Orthodox,2,4,-0.29,-2,-1.15,5,-1.16,-28,24,-0.7,19.79,-4
+Thiago Moises,Beneil Dariush,fighter2,Lightweight,DEC,2018,Orthodox,Southpaw,-1,-2,-1.65,-7,0.31,-23,-1.47,-30,-30,2.3,3.57,6
+Maycee Barber,Hannah Cifers,fighter1,Women's Strawweight,KO/TKO,2018,Switch,Orthodox,4,2,2.62,10,-5.32,3,2.12,30,20,0,27.27,6
+Michael Trizano,Luis Pena,fighter1,Lightweight,DEC,2018,Orthodox,Southpaw,-4,-3,1.43,26,-1.4,21,-1.12,30,46,0.2,16.67,-2
+Ashley Yoder,Amanda Cooper,fighter1,Women's Strawweight,DEC,2018,Southpaw,Switch,4,5,-0.88,-9,0.45,0,-0.28,12,36,-1,15.56,-4
+Chas Skelly,Bobby Moffett,fighter2,Featherweight,SUB,2018,Orthodox,Orthodox,1,-2,-1.52,-12,0.73,-1,-1.44,-66,-15,0.1,-1.4,-5
+Davi Ramos,John Gunther,fighter1,Lightweight,SUB,2018,Orthodox,Orthodox,-3,-2,1.47,1,-1,10,-3.8,16,0,1.4,4.04,1
+Julian Erosa,Devonte Smith,fighter2,Lightweight,KO/TKO,2018,Southpaw,Orthodox,4,-1,-8.03,-11,-0.58,-10,1.64,60,-25,1.1,-14.14,-4
+Eric Shelton,Joseph Morales,fighter1,Flyweight,DEC,2018,Orthodox,Switch,0,-1,1.17,7,-0.09,5,2.87,1,20,-2.4,-11.23,-3
+Mark De La Rosa,Joby Sanchez,fighter1,Bantamweight,DEC,2018,Orthodox,Orthodox,0,-3,0.02,7,0.18,-6,0.1,-51,-1,0.1,18.33,3
