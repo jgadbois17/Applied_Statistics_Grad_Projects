@@ -42,3 +42,33 @@ For anyone interested, this is the link to [my LinkedIn](https://www.linkedin.co
 * *Design:* One-Half Fraction of 2^4 Factorial 
 * Analysis of Variance 
 * Tukey's Multiple Comparison Procedures 
+
+
+
+## Spring 2020: Modeling Periodic Variations in Music Signals
+### Nonparametric Statistics (CSULB: STAT 560) 
+
+**Data**
+
+* Closer - The Chainsmokers 
+
+**Statistical Methodology** 
+
+* Loess Regression 
+* Thin-Plate Smoothing Spline Regression 
+
+
+## Spring 2020: Predicting the Overall Energy in a Track
+### Regression Analysis (CSULB: STAT 510) 
+
+**Data**
+
+* Spotify Audio Features from [Spotify web API](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
+
+**Statistical Methodology** 
+
+* Linear Regression 
+* Variable Selection 
+* Influential Point Detection 
+* Residual Analysis 
+* Testing 
