@@ -7,7 +7,27 @@ This project took a subsample of size 2205 from an audio signal that was sampled
 
 ## Methodology
 
-Loess regression and thin-plate smoothing splines in SAS and R. 
+Loess regression and thin-plate smoothing splines in SAS and R.
+
+## Software
+
+**SAS**
+
+* proc import 
+* proc contents 
+* proc print 
+* proc gplot 
+* proc loess
+* proc tpspline 
+
+**R Packages**
+
+* tuneR
+* tidyverse 
+* broom 
+* ggpubr 
+* fANCOVA 
+* fields  
 
 ## Results 
 
