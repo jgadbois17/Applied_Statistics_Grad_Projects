@@ -72,3 +72,16 @@ For anyone interested, this is the link to [my LinkedIn](https://www.linkedin.co
 * Influential Point Detection 
 * Residual Analysis 
 * Testing 
+
+
+## Fall 2020: Forecasting Pharmaceutical Drug Sales
+### Time Series Analysis (CSULB: STAT 580) 
+
+**Data**
+
+* Pharma Drug Sales Volumes from [Kaggle](https://www.kaggle.com/milanzdravkovic/pharma-sales-data?select=salesweekly.csv)
+
+**Statistical Methodology**
+
+* STL decomposition 
+* ARIMA modeling
