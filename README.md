@@ -5,7 +5,7 @@
 
 The purpose of this repository is to keep all of my class projects from my master's program organized and in one place. 
 
-I graduated with my Bachelor's degree in mathematics with an option in statistics from CSULB in May 2019. From there, I went straight into a master's program in applied statistics at CSULB. My first semester was Fall 2019.  
+I graduated with my Bachelor's degree in mathematics with an option in statistics from CSULB in May 2019. From there, I went straight into a master's program in applied statistics at CSULB. My first semester was Fall 2019 and I graduated in January 2021. 
 
 For anyone interested, this is the link to [my LinkedIn](https://www.linkedin.com/in/josephgadbois/)
 
