@@ -16,7 +16,7 @@ For anyone interested, this is the link to [my LinkedIn](https://www.linkedin.co
 
 **Data:** 
 
-* The data is from [FightMetric](http://www.ufcstats.com/statistics/fighters)
+* The data are from [FightMetric](http://www.ufcstats.com/statistics/fighters)
 * Fighter statistics taken as the difference of the first and second fighter analyzed as the difference 
 * Bout (fight) data for results of fights 
 
@@ -84,4 +84,7 @@ For anyone interested, this is the link to [my LinkedIn](https://www.linkedin.co
 **Statistical Methodology**
 
 * STL decomposition 
-* ARIMA modeling
+* ARIMA/SARIMA modeling
+* ADF test
+* Residual Analysis
+* Moddel evaluation
