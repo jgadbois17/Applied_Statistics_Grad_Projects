@@ -10,7 +10,7 @@ Projects done for classes in my master's program at California State University,
 
 
 
-## UFC Fight Prediction
+## [UFC Fight Prediction](https://github.com/jgadbois17/Applied_Statistics_Grad_Projects/tree/master/UFC%20Fight%20Prediction)
 
 Project for Multivariate Statistical Analysis (CSULB: STAT 550)
 
@@ -29,7 +29,7 @@ Project for Multivariate Statistical Analysis (CSULB: STAT 550)
 
 
 
-## Analyzing Student Exam Performance 
+## [Analyzing Student Exam Performance](https://github.com/jgadbois17/Applied_Statistics_Grad_Projects/tree/master/Analyzing%20Student%20Exam%20Performance)
 
 Project for Experimental Design & Analysis (CSULB: STAT 530) 
 
@@ -53,7 +53,7 @@ Project for Experimental Design & Analysis (CSULB: STAT 530)
 
 
 
-## Modeling Periodic Variations in Music Signals
+## [Modeling Periodic Variations in Music Signals](https://github.com/jgadbois17/Applied_Statistics_Grad_Projects/tree/master/Nonparametric%20Audio%20Signal%20Modeling)
 
 Project for Nonparametric Statistics (CSULB: STAT 560) 
 
@@ -68,7 +68,7 @@ Project for Nonparametric Statistics (CSULB: STAT 560)
 
 
 
-## Predicting the Overall Energy in a Track
+## [Predicting the Overall Energy in a Track](https://github.com/jgadbois17/Applied_Statistics_Grad_Projects/tree/master/Predicting%20Energy%20in%20a%20Song)
 
 Project for Regression Analysis (CSULB: STAT 510) 
 
@@ -92,7 +92,7 @@ Project for Regression Analysis (CSULB: STAT 510)
 
 
 
-## Forecasting Pharmaceutical Drug Sales
+## [Forecasting Pharmaceutical Drug Sales](https://github.com/jgadbois17/Applied_Statistics_Grad_Projects/tree/master/Forecasting%20Pharmaceutical%20Drug%20Sales)
 
 Project for Time Series Analysis (CSULB: STAT 580) 
 
