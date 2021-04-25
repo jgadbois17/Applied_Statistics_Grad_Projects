@@ -41,7 +41,7 @@ Project for Experimental Design & Analysis (CSULB: STAT 530)
 
 ### Statistical Methodology
 
-* **Design:** One-Half Fraction of $2^{4}$ Factorial 
+* **Design:** One-Half Fraction of 2^4 Factorial 
 * Analysis of Variance 
 * Tukey's Multiple Comparison Procedures 
 
