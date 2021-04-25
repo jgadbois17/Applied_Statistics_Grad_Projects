@@ -1,18 +1,19 @@
 # Modeling the Overall Energy in a Track: 
 ## Linear Regression Approach
 
-**Data**
+# Data
 
 The data were scraped from [Spotify's web API](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/) (Application Programming Interface) using a cool feature where you can obtain the audio features from a track. 
 
-## Research Questions
+# Research Questions
 
 1. How can linear regression be implemented in order to understand what determines the overall energy in a track? 
 2. What variable had the largest effect on the overall energy in a track?
 3. Disregarding simplicity, are there any interactions in the data that contribute to understanding the overall energy in a track? If so, are they intuitive? 
 
 
-## Methodology
+# Methodology
+
 * Linear regression 
 * Variable Selection: Best Subsets Regression 
   * *Criteria considered:* 
@@ -42,7 +43,7 @@ The data were scraped from [Spotify's web API](https://developer.spotify.com/doc
   * broom 
   * leap
 
-## Results 
+# Results 
 
 * Second-Order linear regression model with 8 interaction effects and 6 first-order predictors 
 * Adjusted R2 = 0.7121
